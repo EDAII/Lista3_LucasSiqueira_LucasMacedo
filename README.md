@@ -19,4 +19,4 @@ e outro para análise da média dos tempos de execução.</p>
 
 > pip3 install -r requirements.txt
 
-> python3 lista1.py
+> python3 lista3.py
