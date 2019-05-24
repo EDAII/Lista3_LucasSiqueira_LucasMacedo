@@ -1,4 +1,4 @@
-# Lista 2 
+# Lista 3 
 ## Alunos:
 Lucas Siqueira - 15/0137567
 
